@@ -1,0 +1,19 @@
+{
+    "orders": [
+        {
+            "id": 95,
+            "client_id": 8,
+            "ice_creams": ["Frutilla"],
+            "size_order": 1.0,
+            "cash_card": 500
+        },
+        {
+            "id": 96,
+            "client_id": 9,
+            "ice_creams": ["Vainilla", "Dulce de Leche"],
+            "size_order": 0.5,
+            "cash_card": 1000
+        }
+    ]
+}
+  

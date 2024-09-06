@@ -1,0 +1,95 @@
+{
+    "orders": [
+        {
+            "id": 25,
+            "client_id": 1,
+            "ice_creams": ["Chocolate"],
+            "size_order": 1.0,
+            "cash_card": 2000
+        },
+        {
+            "id": 26,
+            "client_id": 2,
+            "ice_creams": ["Chocolate"],
+            "size_order": 1.0,
+            "cash_card": 3000
+        },
+        {
+            "id": 27,
+            "client_id": 3,
+            "ice_creams": ["Chocolate"],
+            "size_order": 1.0,
+            "cash_card": 3000
+        },
+        {
+            "id": 28,
+            "client_id": 4,
+            "ice_creams": ["Chocolate"],
+            "size_order": 1.0,
+            "cash_card": 3000
+        },
+        {
+            "id": 29,
+            "client_id": 5,
+            "ice_creams": ["Chocolate"],
+            "size_order": 1.0,
+            "cash_card": 3000
+        },
+        {
+            "id": 30,
+            "client_id": 6,
+            "ice_creams": ["Chocolate"],
+            "size_order": 1.0,
+            "cash_card": 3000
+        },
+        {
+            "id": 31,
+            "client_id": 7,
+            "ice_creams": ["Chocolate"],
+            "size_order": 1.0,
+            "cash_card": 3000
+        },
+        {
+            "id": 32,
+            "client_id": 8,
+            "ice_creams": ["Chocolate"],
+            "size_order": 1.0,
+            "cash_card": 3000
+        },
+        {
+            "id": 33,
+            "client_id": 9,
+            "ice_creams": ["Chocolate"],
+            "size_order": 1.0,
+            "cash_card": 3000
+        },
+        {
+            "id": 34,
+            "client_id": 10,
+            "ice_creams": ["Chocolate"],
+            "size_order": 1.0,
+            "cash_card": 3000
+        },
+        {
+            "id": 35,
+            "client_id": 11,
+            "ice_creams": ["Chocolate"],
+            "size_order": 1.0,
+            "cash_card": 3000
+        },
+        {
+            "id": 36,
+            "client_id": 12,
+            "ice_creams": ["Chocolate"],
+            "size_order": 1.0,
+            "cash_card": 3000
+        },
+        {
+            "id": 37,
+            "client_id": 13,
+            "ice_creams": ["Chocolate"],
+            "size_order": 1.0,
+            "cash_card": 3000
+        }
+    ]
+}

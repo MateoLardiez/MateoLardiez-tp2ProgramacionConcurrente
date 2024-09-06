@@ -1,0 +1,75 @@
+{
+    "orders": [
+        {
+            "id": 1,
+            "client_id": 1,
+            "ice_creams": ["Vainilla", "Chocolate", "Frutilla"],
+            "size_order": 1.0,
+            "cash_card": 2000
+        },
+        {
+            "id": 2,
+            "client_id": 2,
+            "ice_creams": ["Chocolate", "Dulce de Leche", "Frutilla"],
+            "size_order": 0.5,
+            "cash_card": 500
+        },
+        {
+            "id": 3,
+            "client_id": 3,
+            "ice_creams": ["Vainilla", "Crema Americana"],
+            "size_order": 0.25,
+            "cash_card": 500
+        },
+        {
+            "id": 4,
+            "client_id": 1,
+            "ice_creams": ["Chocolate", "Dulce de Leche", "Frutilla"],
+            "size_order": 1,
+            "cash_card": 1500
+        },
+        {
+            "id": 5,
+            "client_id": 4,
+            "ice_creams": ["Dulce de Leche"],
+            "size_order": 0.5,
+            "cash_card": 0
+        },
+        {
+            "id": 6,
+            "client_id": 5,
+            "ice_creams": ["Vainilla", "Chocolate", "Frutilla"],
+            "size_order": 0.5,
+            "cash_card": 500
+        },
+        {
+            "id": 7,
+            "client_id": 6,
+            "ice_creams": ["Vainilla", "Dulce de Leche"],
+            "size_order": 0.25,
+            "cash_card": 500
+        },
+        {
+            "id": 8,
+            "client_id": 8,
+            "ice_creams": ["Frutilla"],
+            "size_order": 1.0,
+            "cash_card": 500
+        },
+        {
+            "id": 9,
+            "client_id": 9,
+            "ice_creams": ["Vainilla", "Dulce de Leche"],
+            "size_order": 0.5,
+            "cash_card": 1000
+        },
+        {
+            "id": 10,
+            "client_id": 10,
+            "ice_creams": ["Vainilla", "Chocolate", "Frutilla"],
+            "size_order": 0.25,
+            "cash_card": 500
+        }
+    ]
+}
+  
